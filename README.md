@@ -40,4 +40,4 @@ The game generates a random 12x12 letter grid and challenges the player to find 
 Copy the project to your local computer using Git:
 
 ```bash
-git clone https://github.com/yourusername/word-search.git
+git clone https://github.com/yzrw0/word-search.git
